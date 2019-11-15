@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MySimpleWidget</string>
+    <string name="appwidget_text">0</string>
+    <string name="add_widget">Add widget</string>
 </resources>
